@@ -16,6 +16,7 @@ feride.pensize(0.5)
 
 for n in range(loop_number):
     # angle
+    # you can change angle to 137.3 or 137.6 to draw different phyylotaxis
     a = n * 137.5
     a_radian = math.radians(a)
     # radius of dot
